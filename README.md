@@ -1,4 +1,4 @@
-Used IMDB ratings text to predict the score that users gave the film. 
+Used IMDB ratings' text to predict the score that users gave the film. Films considered were all Marvel movies in the MCU. 
 
 <img width="287" alt="labeledData" src="https://github.com/gaf17/FinalProjectNLP/assets/54678225/6d6ef6bb-707f-4efc-a7c5-7a3d1491e4d0">
 
